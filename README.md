@@ -8,6 +8,7 @@ to implement and run this project you should have the following prerequisites
 ## Prerequisites
 Text editor
 browser like crome
+if you have the above mentioned  prerequistes you can clone the project by using the link(https://github.com/haftamudesta/portfolio) to you text editor and run it on your local machine.
 ## Author
  [Githab](https://github.com/settings/profile)
 [linkedin](https://www.linkedin.com/in/haftamu-desta-795791a1/)
@@ -16,7 +17,7 @@ browser like crome
 ## Contributing
 Contributions, issues, and feature requests are welcome!
 ## Show your support
-give tumps if you like this project.
+give tumbs up if you like this project.
 ## Acknowledgments
 Microverse
 ## License
