@@ -183,13 +183,14 @@ ul {
   order: 0;
   flex-grow: 0;
   margin: 0 0;
+  color: #fff;
 }
 
 .social {
   position: relative;
   width: 20px;
   height: 16px;
-  color: #dbd8d7;
+  color: #fff;
   padding: 5px;
 }
 
@@ -204,7 +205,6 @@ ul {
 .vector {
   position: relative;
   margin-right: 0;
-  background: #fff;
 }
 
 .myRecent {
